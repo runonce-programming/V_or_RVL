@@ -146,6 +146,7 @@ if __name__ == '__main__':
     lexer = BasicLexer() 
     parser = BasicParser() 
     print('Enter variables or maths') 
+    print('One not added symbol=exit')
     env = {} 
       
     while True: 
