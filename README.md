@@ -1,5 +1,3 @@
-# vitl
-A simple language made in python
 
 # How i do launch?
 to launch, you need install python (install python at www.python.org )
