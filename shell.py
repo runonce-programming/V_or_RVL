@@ -151,7 +151,7 @@ if __name__ == '__main__':
     while True: 
           
         try: 
-            text = input('Vitl > ') 
+            text = input('V >') 
           
         except EOFError: 
             break
