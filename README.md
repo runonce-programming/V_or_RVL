@@ -1,6 +1,6 @@
 
 # How i do launch?
-to launch, you need install python (install python at www.python.org )
+to launch, you need install python (install python at www.python.org/downloads )
 after installing, go in cmd and type pip install sly 
 then, open file and enjoy!
 # How i do make commands?
